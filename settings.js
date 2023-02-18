@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "YOUR_OPENAI_KEY" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -17,7 +17,7 @@ global.APIs = {
 // beli apikey premium pc wa: 0887435047326
 // beli apikey premium pc wa: 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'TntpUQn8', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 19
@@ -27,7 +27,7 @@ global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -41,24 +41,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "Asisten Ancha-Mdོ" //namabot kalian
+global.ownername = "ᴹᴿ᭄ Ancha.Andhi ×፝֟͜×" //nama kalian
+global.myweb = "bit.ly/HaloMotion" //bebas asal jan hapus
+global.youtube = "bit.ly/HaloMotion" //bebas asal jan hapus
+global.myweb2 = "bit.ly/HaloMotion" //bebas
+global.email = "bit.ly/HaloMotion" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6285240778548'] //premium user
+global.owner = ["6281342342689", "6285240778548"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62881342342689" // nomor wa kalian
+global.ownernomerr = "+62881342342689" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Asisten Ancha-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Ancha.Andhi' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'document' //
@@ -214,7 +214,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: '🤗Done, Oke Bosku~',
    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
